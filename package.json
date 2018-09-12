@@ -9,7 +9,7 @@
   "author": "InternalCosmos",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "github:hydrabolt/discord.js",
-    "klasa": "github:dirigeants/klasa#master"
+    "discord.js": "^11.4.2",
+    "klasa": "^0.4.0"
   }
 }
