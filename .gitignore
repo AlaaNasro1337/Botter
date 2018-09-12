@@ -1,0 +1,5 @@
+node_modules/
+bwd/
+config.json
+package-lock.json
+./base.ignore

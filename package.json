@@ -1,0 +1,15 @@
+{
+  "name": "Deep Space",
+  "version": "1.0.0",
+  "description": "Moderation bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "InternalCosmos",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "github:hydrabolt/discord.js",
+    "klasa": "github:dirigeants/klasa#master"
+  }
+}
